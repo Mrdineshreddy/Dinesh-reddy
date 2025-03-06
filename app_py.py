@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1u79S--jM2we3k0HswknZO-SaWuM51nCT
 """
 
-pip install streamlit tensorflow opencv-python requests numpy matplotlib
+!pip install streamlit tensorflow opencv-python requests numpy matplotlib
 
 import streamlit as st
 import tensorflow as tf
